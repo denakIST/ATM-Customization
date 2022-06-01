@@ -1,0 +1,21 @@
+
+button {
+  background-color: #0c80f3;
+  border: 6px solid #afb0af;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.root {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #afb0af;
+
+}
+
+
